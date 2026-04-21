@@ -7,7 +7,7 @@
 // @match        https://archive.org/details/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
-// @get          GM_getValue
+// @grant          GM_getValue
 // @connect      raw.githubusercontent.com
 // ==/UserScript==
 
